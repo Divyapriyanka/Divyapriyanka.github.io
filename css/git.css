@@ -1,0 +1,474 @@
+body{
+    margin:0;
+    padding: 0; 
+  
+
+}
+/*----------------------------------------------------------------section1---------------------------------------*/
+/*----------------------------------------------------------------header-----------------------------------------*/
+.s1{
+    background-image: linear-gradient(to top,#3884ff,#3480ff);
+    height:630px;
+}
+.container{
+    margin-left: 178px;
+    margin-right: 178px;
+}
+header 
+{
+  margin-top:0%; 
+  height: 44px;
+}
+
+.inside{
+    display: inline;
+}
+.inside svg{
+    width: 143px;
+    height: 50px;
+}
+ .txt {
+    margin-top: -42px;
+    margin-left: 165px;
+}
+.txt .atxt {
+     color: #3884ff;
+    position: relative;
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 1em;
+    letter-spacing: .3px;
+    background-color: white;
+    width: 94px;
+    border-radius: 3px;
+    font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding: 6px 8px;
+ }
+.txt1{
+    margin-top:-22px;
+    margin-left: 295px;
+}
+ .txt1 .btxt1{
+    font-size: 14px;
+    margin-right:46px;
+    color:white;
+    letter-spacing: .3px;
+    font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-decoration: none;
+}
+ .txt2{
+    margin-top:-23px;
+    float:right;
+}
+.txt2 .ctxt2{
+    margin-top: -22px;
+    font-size: 14px;
+    margin-right:30px;
+    letter-spacing: .3px;
+    color:white;
+    font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-decoration: none;
+}
+.txt2 button{
+        border: 1px;
+        padding: 4px;
+        border-radius: 4px;
+        background: white;
+        color: steelblue;
+        font-size: 14px;
+        position: relative;
+        width: 78px;
+        margin-top: -23px;
+        font-weight: 600;
+        height: 35px;
+        font-family: 'Lucida Sans';
+ }
+ /*----------------------------------------------------------end header-------------------------------------------------------*/
+/*------------------------------------------------------------nav-------------------------------------------------------------*/
+
+ .menu .prt1{
+     margin-top: 73px;
+ }
+ .menu .prt1 h1{
+     font-family: 'Lucida Sans';
+     line-height: 1.4em;
+     font-size: 34px;
+     font-weight: 100;
+     color:white;
+ }
+ .menu .prt1 h3{
+     font-family: 'Lucida Sans';
+     margin-top: -30px;
+     line-height: 1.4em;
+     font-size: 20px;
+     font-weight: 100;
+     margin-bottom: 6px;
+     color:white;
+ }
+ .prt2{
+     margin-top: 45px;
+ }
+ .prt2 form{
+     width:35%;
+ }
+ .prt2 label{
+    font-size: 11px;
+    font-family:'Lucida Sans';
+    color:white;
+    padding:5px;
+ }
+ input[type="text"],[type="password"] {
+    padding: 10px;
+    border-radius: 4px;
+    width: 80%;
+    border: 1px solid;
+    background-color: rgba(255,255,255,.5);
+    border-color: rgba(255,255,255,.7);
+}
+
+
+.prt2 #fdiv{
+    padding: 0px;
+}
+.prt3{
+    margin-top: 15px;
+}
+.prt3 button{
+     border: 1px;
+     padding: 12px;
+     border-radius: 4px;
+     background:white;
+     position: relative;
+     width:85%;
+     margin-left: 4px;
+     font-weight: 600;
+     color: steelblue;
+     font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+     font-size: 16px;
+
+ }
+ .prt4{
+     margin-top: 16px;
+     margin-left: 40px;
+ }
+ .prt4 #p4{
+     font-family: 'Lucida Sans';
+     font-size:15px;
+     color:white;
+     text-decoration: none;
+ }
+  .prt5{
+     margin-top: 11px;
+     margin-left: 3px;
+ }
+ .prt5 #p5{
+     font-family: 'Lucida Sans';
+     font-size:14px;
+     color:white;
+     text-decoration: none;
+ }
+ .pic {
+     margin-top: -386px;
+ }
+ .pic img{
+     width: 67%;
+     height: 490px;
+     margin-left: 360px;
+     
+ }
+ /*----------------------------------------------------------end nav------------------------------------------------*/
+ /*-----------------------------------------------------------end section1-----------------------------------------*/
+ /*-----------------------------------------------------------section2----------------------------------------*/
+ .s2{
+     background-color: whitesmoke;
+     width:100%;
+     height: 380px;
+ }
+.brand1{
+    width:35%;
+}
+.brand1 img{
+    margin-top: 130px;
+}
+.brand1 .aaa {
+    text-align: center;
+    font-family: 'Lucida Sans';
+    font-size:15px;
+    color: black;
+}
+.brand2{
+    width:35%;
+    margin-top: -151px;
+    margin-left: 348px;
+}
+.brand2 img{
+    margin-top: 0px;
+}
+.brand2 .bbb {
+    text-align: center;
+    font-family: 'Lucida Sans';
+    font-size:15px;
+    color: black;
+}
+.brand3{
+    width:35%;
+    margin-top: -158px;
+    margin-left: 686px;
+}
+.brand3 img{
+    margin-top: 0px;
+}
+.brand3 .ccc {
+    text-align: center;
+    font-family: 'Lucida Sans';
+    font-size:15px;
+    color: black;
+}
+/*-----------------------------------------------------------end section2---------------------------------*/
+/*------------------------------------------------------------section3-----------------------------------------*/
+.s3{
+     width:100%;
+     height: 800px;
+ }
+.ddd h1{
+    text-align: center;
+    font-family: 'Lucida Sans';
+    font-size:30px;
+    color: black;
+    font-weight: 100;
+    margin-top: 115px;
+}
+.brand4 .eee img{
+margin-top: 105px;
+}
+.brand4 .fff img{
+    margin-top: -513px;
+    margin-left: 317px;
+}
+.brand4 .ggg img{
+    float:right;
+    margin-top: -490px;
+}
+/*-------------------------------------------------------end section3-------------------------------------*/
+/*----------------------------------------------------------section4----------------------------------------*/
+.s4{
+    background-color: whitesmoke;
+     width:100%;
+     height: 750px;
+ }
+.brand5 .hhh {
+    width: 25%;
+}
+.brand5 .hhh img{
+    width: 190px;
+    margin-top: 140px;
+    margin-left: 178px;
+}
+.brand5 .iii {
+    width: 25%;
+    float: left;
+    margin-top: -68px;
+}
+.brand5 .iii img{
+width: 176px;
+margin-left: 445px;
+}
+.brand5 .jjj {
+    width: 25%;
+    float: left;
+    margin-top: -68px;
+}
+.brand5 .jjj img{
+width: 188px;
+margin-left: 375px;
+}
+.brand5 .kkk {
+    width: 25%;
+    float: left;
+    margin-top: -75px;
+}
+.brand5 .kkk img{
+    width: 190px;
+    margin-left: 330px;
+}
+.brand6 {
+    margin-top: -93px;
+}
+.brand6 h1{
+    font-family: 'Lucida Sans';
+    font-size:30px;
+    color: black;
+    font-weight: 100;
+    margin-top: 205px;
+    margin-left: 153px;
+}
+.brand6 p{
+    font-family: 'Lucida Sans';
+    font-size:15px;
+    color: black;
+    font-weight: 100;
+    margin-top: 0px;
+    margin-left: 153px;
+}
+.brand6 p b{
+    font-size: 20px;
+    font-weight: 800;
+}
+.brand6 button{
+     border: 1px;
+    padding: 12px;
+    border-radius: 4px;
+    background: steelblue;
+    position: relative;
+    width: 12%;
+    margin-left: 154px;
+    font-weight: 600;
+    color: white;
+    font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 19px;
+
+ }
+ /*------------------------------------------------------inner section4a-----------------------*/
+.s4a{
+    background-color: white;
+    width: 56%;
+    height: 362px;
+    float: right;
+    margin-left: 24px;
+    margin-right: 15px;
+    margin-top: -233px;
+}
+.brand7 .lll img{
+    width: 25%;
+    height: 175px;
+    margin-top: 27px;
+    margin-left: 27px;
+
+}
+.brand7 .mmm img{
+    width: 25%;
+    height: 175px;
+    float:right;
+    margin-top: -179px;
+    margin-right: 284px;
+}
+.brand7 .nnn img{
+    width: 25%;
+    height: 175px;
+    float:right;
+    margin-top: -179px;
+    margin-right: 33px;
+}
+.brand8 .ooo{
+    width: 25%;
+    margin-left: 30px;
+    margin-top: 7px;
+
+}
+.brand8 .ooo h4{
+        font-family: 'Lucida Sans';
+        color: black;
+}
+.brand8 .ooo p{
+    font-family: 'Lucida Sans';
+    font-size:13px;
+    color: black;
+    font-weight: 100;
+}
+.brand8 .ooo a{
+    text-decoration: none;
+    font-family: 'Lucida Sans';
+    font-size:13px;
+    color: steelblue;
+    font-weight: 100;
+}
+.brand8 .ooo a:hover{
+    text-decoration: underline;
+}
+.brand8 .ppp{
+    width: 25%;
+    margin-left: 288px;
+    margin-top: -130px;
+
+}
+.brand8 .ppp h4{
+        font-family: 'Lucida Sans';
+        color: black;
+}
+.brand8 .ppp p{
+    font-family: 'Lucida Sans';
+    font-size:13px;
+    color: black;
+    font-weight: 100;
+}
+.brand8 .ppp a{
+    text-decoration: none;
+    font-family: 'Lucida Sans';
+    font-size:13px;
+    color: steelblue;
+    font-weight: 100;
+}
+.brand8 .ppp a:hover{
+    text-decoration: underline;
+}
+.brand8 .qqq{
+    width: 25%;
+    margin-left: 543px;
+    margin-top: -130px;
+
+}
+.brand8 .qqq h4{
+        font-family: 'Lucida Sans';
+        color: black;
+}
+.brand8 .qqq p{
+    font-family: 'Lucida Sans';
+    font-size:13px;
+    color: black;
+    font-weight: 100;
+}
+.brand8 .qqq a{
+    text-decoration: none;
+    font-family: 'Lucida Sans';
+    font-size:13px;
+    color: steelblue;
+    font-weight: 100;
+}
+.brand8 .qqq a:hover{
+    text-decoration: underline;
+}
+.brand9 svg {
+    margin-left: 160px;
+    margin-top: 175px; 
+}
+
+.brand9 ul{
+margin-top: -31px;
+margin-left: 218px;
+}
+.brand9 ul li{
+    display: inline-block;
+}
+.brand9 ul li a{
+    text-decoration: none;
+    font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding: 5px 15px;
+    color: #8c919b;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    height: 30px;
+}
+.brand9 ul li a:hover{
+    text-decoration: underline;
+}
+.brand9 #rrr{
+    float:right;
+    margin-top: -39px;
+    margin-right: 147px;
+    text-decoration: none;
+}
+.brand9 #rrr:hover{
+    text-decoration: underline;
+}
+/*--------------------------------------------------------------section4 ends-----------------------------------------*/
